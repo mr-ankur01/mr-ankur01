@@ -82,5 +82,4 @@ Developed a secure **temporary email service** using **Python Django**, allowing
 
 ---
 
-![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-ankur01&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ankur01&layout=compact&theme=radical)

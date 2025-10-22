@@ -61,14 +61,6 @@ Developed a secure **temporary email service** using **Python Django**, allowing
 
 ---
 
-## 🏅 Certificates
-- Big Data Analytics with Hadoop and Apache Spark  
-- Introduction to Network Routing  
-- Social Networks  
-- IoT Foundations: Operating Systems Fundamentals  
-
----
-
 ## 🌱 Currently Learning
 - TypeScript  
 - Advanced Next.js  
